@@ -1,0 +1,15 @@
+__pycache__/
+data/answers_permuted.txt
+data/questions_permuted.txt
+data_vqa_feat/
+images/
+vqa_data_share/
+vqa_val2014_img/
+vqa_train2014_img/
+VQA/Images
+VQA/Annotations
+VQA/Questions
+VQA/Results
+data/dictionary.json
+data/dictionary.pkl
+darknet/yolo.weights
